@@ -1,8 +1,4 @@
-### Fungsi: Install Hysteria
-install_hysteria() {
-    echo "[➤] Menjalankan proses instalasi Hysteria..."
-    
-   #!/usr/bin/env bash
+ #!/usr/bin/env bash
 #
 # Try `install_namyudp.sh --help` for usage.
 #
@@ -982,4 +978,4 @@ parse_arguments "$@"
 
 main "$@"
 
-}
+# vim:set ft=bash ts=2 sw=2 sts=2 et:
